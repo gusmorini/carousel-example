@@ -1,0 +1,58 @@
+[
+  {
+    "id": "0",
+    "name": "NBA nike black+gold",
+    "image": "https://artwalk.vteximg.com.br/arquivos/ids/262380-1000-1000/Tenis-Nike-PG-6-Preto-1.jpg?v=637933120805930000",
+    "oldPrice": "299.00",
+    "price": "199.00"
+  },
+  {
+    "id": "1",
+    "name": "undermour charged advanced",
+    "image": "https://underarmourbr.vteximg.com.br/arquivos/ids/234119-1000-1000/TA%C2%AAnis-de-Corrida-Unissex-Under-Armour-Charged-Advance.jpg?v=637822515495700000",
+    "oldPrice": "499.00",
+    "price": "299.00"
+  },
+  {
+    "id": "2",
+    "name": "nike precision VI",
+    "image": "https://imgcentauro-a.akamaihd.net/1300x1300/97322202A2/tenis-nike-precision-vi-masculino-img.jpg",
+    "oldPrice": "499.00",
+    "price": "399.00"
+  },
+  {
+    "id": "3",
+    "name": "skate old school",
+    "image": "https://static.netshoes.com.br/produtos/tenis-feminino-skate-old-school-lona/06/86T-0034-006/86T-0034-006_zoom1.jpg?ts=1663090264",
+    "oldPrice": "399.00",
+    "price": "299.00"
+  },
+  {
+    "id": "4",
+    "name": "nike air Jordan",
+    "image": "https://images-submarino.b2w.io/produtos/4127599461/imagens/tenis-air-jordan-masculino-feminino-retro-basquete-chicago/4127599541_1_large.jpg",
+    "oldPrice": "399.00",
+    "price": "299.00"
+  },
+  {
+    "id": "5",
+    "name": "nike air max 270",
+    "image": "https://images.tcdn.com.br/img/img_prod/740066/tenis_nike_air_max_270_react_bauhaus_391_1_20200120155759.jpg",
+    "oldPrice": "399.00",
+    "price": "299.00"
+  },
+  {
+    "id": "6",
+    "name": "nike zoom fly 5",
+    "image": "https://images.tcdn.com.br/img/img_prod/1034143/tenis_nike_masculino_zoom_fly_5_dm8968_3801_variacao_33903_1_4e3daa74fb2b254f537eaceca4cc4cab.jpg",
+    "oldPrice": "399.00",
+    "price": "299.00"
+  },
+  {
+    "id": "7",
+    "name": "new balance fuelcell propel",
+    "image": "https://cdnstatic8.com/b2online.com.br/image/cache/data/produtos/new-balance/masculino/tenis-new-balance-fuelcell-propel-azul---amarelo-5513-22-03-29-1200x1200.jpg",
+    "oldPrice": "399.00",
+    "price": "299.00"
+  }
+]
